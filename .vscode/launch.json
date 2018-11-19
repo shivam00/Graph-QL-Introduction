@@ -12,3 +12,46 @@
     }
   ]
 }
+
+Self Assessment-:
+
+-Efficiency
+1.yes I achieved <=1% Script Defect while Execution as I thoroughly go through with the project, also have a long chain
+discussion with dev so to get thorough knowledge of the project.
+
+{HOTP and Location Tracking Discussion }
+
+2. Yes i collaborated with the team and optimised many tcs by refactoring and giving a approach in performance so to 
+optimised scripts
+
+{KG and performance script using sub transaction}
+
+3.Efficiency increase as now i take over too complete user story and project (Samsung Admin , HOTP and Location Tracking)
+
+4.Highlight Risk- Yes i highlight the risk for security test in a Open API project as if xcss is not handle from client 
+side than it can damage our server and user flow. 
+
+5.root cause analysis - This is the main think i do .First go through with the issue and then talk to dev about issue and 
+provide a good approach
+
+{Location Tracking for invalid long and latitude pair ..given the correct liner inequality for lat and long}
+
+6.timely resolved issue verification - yes I verified the issue as soon as goes into QA. 
+
+{sometimes dev says you are fast as they haven't deploy the code and say we have updated the code}
+ 
+-Quality
+ 1.test Case enhancement- By doing refactoring we enhance the test case 
+ 
+ {Bigger problem is cut down in short short and we right tcs for short and use these tcs in big scenario}
+
+2. TC Coverage - Almost cover every +ve and -ve scenario by first thinking of it ..discussing with the team and noting down 
+the approach.
+
+{Location tracking and HOTP}
+
+3.I have almost 0 ECIM defect leakage as there is 0 market issue
+
+4. 0 market issue
+
+-Automation
