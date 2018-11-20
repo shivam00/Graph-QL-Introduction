@@ -1,14 +1,4 @@
-<p align="center">
-  <a href="https://pesto.tech/">
-    <img alt="PESTO" src="https://www.pesto.tech/assets/pestoblack.svg" width="500">
-  </a>
-</p>
-
-<p align="center">
-  Javascript Engineers as a Service
-</p>
-
-# The Interview App Server
+# The App Server
 
 Right now the questions that are asked are stored in a DOC file and the scores are maintained in an excel sheet. 
 
