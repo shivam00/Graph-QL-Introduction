@@ -1,5 +1,4 @@
 # The App Server
-
 Right now the questions that are asked are stored in a DOC file and the scores are maintained in an excel sheet. 
 
 The Interview App will aim to automate this process.
