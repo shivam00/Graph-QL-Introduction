@@ -6,7 +6,6 @@ The Interview App will aim to automate this process.
 ```
 The Interview App Server will contain all the backend process.
 ```
-
 ## Getting Started
 Clone the repository and run 
 ```
