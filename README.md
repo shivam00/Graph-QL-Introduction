@@ -90,7 +90,6 @@ $ yarn test:watch
     skype: String) : Candidate
 ```
 ## Built With
-
 * [Express](https://expressjs.com/) - Node.js web application framework
 * [Yarn](https://yarnpkg.com) - Dependency Management
 * [GraphQL](https://http://graphql.org) -Query language for our API
