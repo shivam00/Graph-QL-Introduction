@@ -85,7 +85,7 @@ $ yarn test:watch
     questionDetails: QuestionDetails) : AssignedQuestion
 ```
 * To add the candidate for interview
-```   
+``` 
     addCandidate(name: String!, email: String!, address: String, phone: String,    
     skype: String) : Candidate
 ```
